@@ -2,6 +2,20 @@
 # Exam Paper
 [2024 HIGHER SCHOOL CERTIFICATE EXAMINATION](https://www.educationstandards.nsw.edu.au/wps/wcm/connect/046d9058-4c19-4b39-a19e-7cc4c42ac42e/2024-hsc-physics.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-046d9058-4c19-4b39-a19e-7cc4c42ac42e-pmSfJ0d)
 
+## 📝 Note to the Readers
+
+These worked solutions are my attempt at solving the **2024 HSC Physics Exam**. While I’ve made every effort to ensure accuracy:
+
+- ✅ **Verify answers** – Cross-check calculations and reasoning.  
+- 🔍 **Report issues** – If you spot errors, [open an issue](../../issues) or submit a PR.  
+- 📢 **Feedback welcome** – Suggestions for clarity/improvement are appreciated!  
+
+**Disclaimer**: These are unofficial solutions. Always consult official marking guidelines.  
+
+🙏 **Thank you for helping improve this resource!**  
+---
+
+
 ## Section I - Multiple Choice Solutions (Questions 1-20)
 
 ### Question 1: Uniform Circular Motion
