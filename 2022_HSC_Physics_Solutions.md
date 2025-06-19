@@ -1,6 +1,19 @@
 # Exam Paper
 [2022 HIGHER SCHOOL CERTIFICATE EXAMINATION](https://www.educationstandards.nsw.edu.au/wps/wcm/connect/f5536414-e9af-4371-be12-3155664b9792/2022-hsc-physics.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f5536414-e9af-4371-be12-3155664b9792-ohf9VbD)
 
+## 📝 Note to the Readers
+
+These worked solutions are my attempt at solving the **2022 HSC Physics Exam**. While I’ve made every effort to ensure accuracy:
+
+- ✅ **Verify answers** – Cross-check calculations and reasoning.  
+- 🔍 **Report issues** – If you spot errors, [open an issue](../../issues) or submit a PR.  
+- 📢 **Feedback welcome** – Suggestions for clarity/improvement are appreciated!  
+
+**Disclaimer**: These are unofficial solutions. Always consult official marking guidelines.  
+
+🙏 **Thank you for helping improve this resource!**  
+---
+
 ## Section I - Multiple Choice Questions (20 marks)
 
 ### Question 1 - Transformers
