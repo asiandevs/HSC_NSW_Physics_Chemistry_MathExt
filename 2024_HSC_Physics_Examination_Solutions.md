@@ -1,4 +1,6 @@
 # 2024 HSC Physics Examination - Complete Solutions
+# Exam Paper
+[2024 HIGHER SCHOOL CERTIFICATE EXAMINATION](https://www.educationstandards.nsw.edu.au/wps/wcm/connect/046d9058-4c19-4b39-a19e-7cc4c42ac42e/2024-hsc-physics.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-046d9058-4c19-4b39-a19e-7cc4c42ac42e-pmSfJ0d)
 
 ## Section I - Multiple Choice Solutions (Questions 1-20)
 
