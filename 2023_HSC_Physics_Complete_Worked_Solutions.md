@@ -1,6 +1,19 @@
 # Exam Paper
 [2023 HIGHER SCHOOL CERTIFICATE EXAMINATION](https://www.educationstandards.nsw.edu.au/wps/wcm/connect/6482b169-f9f1-4bc2-b732-7484e14c9121/2023-hsc-physics.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-6482b169-f9f1-4bc2-b732-7484e14c9121-oKy9JlO)
 
+## 📝 Note to the Readers
+
+These worked solutions are my attempt at solving the **2023 HSC Physics Exam**. While I’ve made every effort to ensure accuracy:
+
+- ✅ **Verify answers** – Cross-check calculations and reasoning.  
+- 🔍 **Report issues** – If you spot errors, [open an issue](../../issues) or submit a PR.  
+- 📢 **Feedback welcome** – Suggestions for clarity/improvement are appreciated!  
+
+**Disclaimer**: These are unofficial solutions. Always consult official marking guidelines.  
+
+🙏 **Thank you for helping improve this resource!**  
+---
+
 ## Section I - Multiple Choice Solutions
 
 ### Question 1
