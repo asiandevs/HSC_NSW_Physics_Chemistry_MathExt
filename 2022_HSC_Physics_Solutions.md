@@ -213,34 +213,6 @@ $p = mv$
 Since $v$ is the same for both satellites but masses are different:
 $p_2 = 2m \cdot v = 2mv = 2p_1$
 
-### Question 13 - Satellite Orbits
-**Two satellites share an orbit around a planet. One has twice the mass of the other. Which quantity would be different?**
-
-**Solution:**
-For circular orbital motion, the gravitational force provides the centripetal force:
-$\frac{GMm}{r^2} = \frac{mv^2}{r}$
-
-Solving for orbital speed:
-$v = \sqrt{\frac{GM}{r}}$
-
-This shows that orbital speed is independent of satellite mass $m$.
-
-For orbital period:
-$T = \frac{2\pi r}{v} = 2\pi r \sqrt{\frac{r}{GM}} = 2\pi \sqrt{\frac{r^3}{GM}}$
-
-Period is also independent of satellite mass.
-
-For centripetal acceleration:
-$a_c = \frac{v^2}{r} = \frac{GM}{r^2}$
-
-Acceleration is also independent of satellite mass.
-
-For momentum:
-$p = mv$
-
-Since $v$ is the same for both satellites but masses are different:
-$p_2 = 2m \cdot v = 2mv = 2p_1$
-
 **Answer: B. Momentum**
 
 ### Question 14 - Photoelectric Effect
@@ -576,16 +548,307 @@ $d = \frac{3.2 \times 10^{-20}}{8.32 \times 10^{-19}} = 3.8 \times 10^{-2} \text
 
 $d = 3.8 \text{ cm}$
 
-### Question 27 (7 marks) - Double Slit Experiment
+## Question 27 (7 marks) - Double Slit Experiment
 
-**(a) Newton's particle model prediction (2 marks)**
+### Given:
+- Red light wavelength: λ = 655 nm = 655 × 10⁻⁹ m
+- Slit separation: d = 5.0 × 10⁻⁵ m
 
-**Solution:**
-According to Newton's corpuscular theory, light consists of particles (photons) that travel in straight lines.
+### Part (a) - Newton's Model (2 marks)
 
-**Expected pattern:**
+**Newton's particle model would predict:**
+
 ```
-[Diagram showing two bright vertical lines on screen corresponding to the two slits, with darkness elsewhere]
+Screen pattern for Newton's model:
+
+    |     |     |
+    |     |     |
+    |     |     |
+    |     |     |
+    |     |     |
+    
+Centre of screen
 ```
 
+Newton's model would show two bright lines corresponding to light particles passing through each slit, with no interference pattern.
 
+### Part (b) - Calculate angle θ (3 marks)
+
+For the first bright fringe (m = 1):
+```
+dsinθ = mλ
+sinθ = mλ/d
+sinθ = (1 × 655 × 10⁻⁹)/(5.0 × 10⁻⁵)
+sinθ = 1.31 × 10⁻²
+θ = sin⁻¹(1.31 × 10⁻²)
+θ = 0.75°
+```
+
+### Part (c) - Green light wavelength 520 nm (2 marks)
+
+**Answer:** The pattern would be more tightly spaced (fringes closer together).
+
+**Explanation:** Since λ_green < λ_red, and the fringe spacing is proportional to wavelength (from dsinθ = mλ), the green light will produce smaller angles θ for each bright fringe, resulting in fringes that are closer to the center line.
+
+---
+
+## Question 28 (3 marks) - CNO Cycle Nuclear Fusion
+
+### Given:
+- Step X: ¹³N → ¹³C + e⁺ + ν, releases 1.20 MeV
+- Step Y: ¹³C + ¹H → ¹⁴N
+
+### Mass data:
+- Carbon-13: 13.003 u
+- Proton: 1.007 u  
+- Nitrogen-14: 14.003 u
+
+### Solution:
+
+**Calculate Q-value for Step Y:**
+```
+Q = (mass of reactants - mass of products) × 931.5 MeV/u
+Q = (13.003 + 1.007 - 14.003) × 931.5
+Q = 0.007 × 931.5 = 6.52 MeV
+```
+
+**Reason:** Step Y releases more energy (6.52 MeV) than Step X (1.20 MeV) because Step Y involves nuclear fusion, where two lighter nuclei combine to form a heavier nucleus. The mass defect in fusion reactions is typically larger than in decay processes, resulting in greater energy release according to E = mc².
+
+---
+
+## Question 29 (4 marks) - Projectile Motion from Moving Car
+
+### Scenario:
+Apple thrown horizontally east from car moving north with uniform velocity.
+
+### Solution:
+
+**Horizontal Components:**
+- **East direction:** Apple maintains constant velocity equal to its initial throwing velocity (no horizontal forces acting)
+- **North direction:** Apple maintains constant velocity equal to the car's velocity due to inertia (Newton's First Law)
+
+**Vertical Component:**
+- Apple experiences constant downward acceleration due to gravity (g = 9.8 m/s²)
+- Initial vertical velocity is zero
+- Vertical motion follows kinematic equations: v = gt, s = ½gt²
+
+**Summary:** The apple follows a parabolic path when viewed from the ground, with constant horizontal velocity components in both east and north directions, and uniformly accelerated motion in the vertical direction.
+
+---
+
+## Question 30 (6 marks) - Special Relativity and Time Dilation
+
+### Part (a) - Einstein's Thought Experiment (3 marks)
+
+**Answer:** 
+
+Einstein's thought experiment demonstrates that:
+
+1. **Constancy of speed of light:** Light travels at the same speed c for all observers, regardless of their reference frame.
+
+2. **Different path lengths:** The observer outside the train sees light travel a longer diagonal path, while the observer inside sees light travel a shorter vertical path.
+
+3. **Time dilation prediction:** Since distance = speed × time, and the speed of light is constant for both observers, but the distances are different, the time intervals must be different. The outside observer measures a longer time interval, leading to the prediction that time runs slower for the moving observer (time dilation).
+
+### Part (b) - Calculation (3 marks)
+
+**Given:**
+- v = 0.96c
+- Proper time (inside train): t₀ = 15 ns
+
+**Calculate time dilation factor:**
+```
+γ = 1/√(1 - v²/c²)
+γ = 1/√(1 - (0.96)²)
+γ = 1/√(1 - 0.9216)
+γ = 1/√0.0784
+γ = 1/0.28 = 3.57
+```
+
+**Time measured by outside observer:**
+```
+t = γt₀
+t = 3.57 × 15 ns
+t = 53.6 ns
+```
+
+---
+
+## Question 31 (9 marks) - Atomic Models and Hydrogen Spectrum
+
+### Experimental Evidence:
+1. **Geiger-Marsden:** Most α-particles pass through, few deflect at large angles
+2. **Hydrogen spectrum:** Discrete spectral lines in Balmer series
+
+### Bohr-Rutherford Model Features:
+
+**1. Nuclear Structure (Geiger-Marsden Results):**
+- Atom has small, dense, positively charged nucleus
+- Most of atom is empty space (explains why most α-particles pass through)
+- Large angle deflections occur when α-particles approach nucleus closely
+
+**2. Quantized Energy Levels (Hydrogen Spectrum):**
+- Electrons orbit nucleus in discrete energy levels: E_n = -13.6/n² eV
+- Energy transitions between levels produce photons with specific frequencies
+- Balmer series: transitions from n≥3 to n=2
+
+### Sample Calculation:
+**Balmer series n=3 to n=2 transition:**
+```
+ΔE = E₃ - E₂ = -13.6/9 - (-13.6/4) = -1.51 + 3.40 = 1.89 eV
+λ = hc/ΔE = (4.14 × 10⁻¹⁵ × 3 × 10⁸)/(1.89 × 1.6 × 10⁻¹⁹)
+λ = 656 nm (red line in Balmer series)
+```
+
+### Energy Diagram:
+```
+Energy Levels:
+n=∞  ────────────  0 eV
+n=4  ────────────  -0.85 eV
+n=3  ────────────  -1.51 eV    ↘
+n=2  ────────────  -3.40 eV    ← Balmer series
+n=1  ────────────  -13.6 eV
+```
+
+**Forces:** Electrostatic attraction provides centripetal force for circular orbits.
+
+---
+
+## Question 32 (6 marks) - Electromagnetic Induction in Exercise Bike
+
+### Part (a) - Principle (3 marks)
+
+**Answer:**
+
+When the aluminum flywheel rotates through the magnetic field:
+
+1. **Induced EMF:** The rotating flywheel cuts through magnetic field lines, inducing an EMF (Faraday's Law: ε = -dΦ/dt)
+
+2. **Eddy Currents:** The induced EMF drives circular currents (eddy currents) within the aluminum flywheel
+
+3. **Opposing Force:** These eddy currents create their own magnetic field that opposes the motion (Lenz's Law), generating a torque that resists the rotation and makes pedaling harder
+
+### Part (b) - Increasing Opposing Torque (3 marks)
+
+**Adjustment:** Move the magnets closer to the flywheel.
+
+**Justification:**
+- Closer magnets create stronger magnetic field through the flywheel
+- Stronger magnetic field → larger induced EMF (ε ∝ B)
+- Larger EMF → larger eddy currents (I ∝ ε)
+- Larger currents → stronger opposing magnetic force and greater resistive torque (F ∝ I, τ ∝ F)
+
+---
+
+## Question 33 (6 marks) - Projectile Motion in Hammer Throw
+
+### Given:
+- Mass: m = 7.0 kg
+- Radius: r = 1.6 m
+- Period: T = 0.50 s
+- Release height: h = 1.2 m
+- Release angle: 45° to horizontal
+
+### Part (a) - Vertical Component of Velocity (2 marks)
+
+**Calculate tangential velocity:**
+```
+v = 2πr/T = 2π × 1.6/0.50 = 20.1 m/s
+```
+
+**Vertical component at 45°:**
+```
+v_y = v sin(45°) = 20.1 × sin(45°)
+v_y = 20.1 × 0.707 = 14.2 m/s
+```
+
+### Part (b) - Horizontal Range (4 marks)
+
+**Given:**
+- v_x = v cos(45°) = 20.1 × 0.707 = 14.2 m/s
+- v_y = 14.2 m/s (upward)
+- h = 1.2 m
+
+**Find time of flight:**
+Using: s = ut + ½at²
+```
+-1.2 = 14.2t - ½(9.8)t²
+4.9t² - 14.2t - 1.2 = 0
+```
+
+Using quadratic formula:
+```
+t = (14.2 ± √(14.2² + 4×4.9×1.2))/(2×4.9)
+t = (14.2 ± √(201.64 + 23.52))/9.8
+t = (14.2 ± 15.0)/9.8
+t = 2.98 s (taking positive value)
+```
+
+**Horizontal range:**
+```
+R = v_x × t = 14.2 × 2.98 = 42.3 m
+```
+
+---
+
+## Question 34 (7 marks) - Charged Particles in Magnetic Field
+
+### Analysis of Particle Paths:
+
+**Magnetic Force on Moving Charges:**
+F = qvB (perpendicular to both v and B)
+
+**Path Analysis:**
+
+**Particle X:** Curves upward (concave up)
+- Positively charged (q > 0)
+- Magnetic force provides centripetal force toward center of curvature
+- Radius: r = mv/(qB)
+
+**Particle Y:** Travels straight
+- Neutral charge (q = 0)
+- No magnetic force acting (F = qvB = 0)
+- Continues in straight line (Newton's First Law)
+
+**Particle Z:** Curves downward (concave down)  
+- Negatively charged (q < 0)
+- Magnetic force acts in opposite direction to particle X
+- Same radius magnitude as X if |q| and m are equal
+
+**Key Physics:**
+- Direction of curvature depends on sign of charge
+- Radius of curvature depends on charge magnitude, mass, and speed
+- Neutral particles are unaffected by magnetic fields
+
+---
+
+## Question 35 (5 marks) - Orbital Motion Analysis
+
+### Given:
+- Capsule mass: m₁ = 1.2 × 10⁴ kg
+- ISS mass: m₂ = 4.2 × 10⁵ kg  
+- Orbital velocity: v = 0.233 m/s
+- Orbital radius: r = 200 m
+
+### Hypothesis Testing:
+
+**Calculate required centripetal force:**
+```
+F_c = m₁v²/r = (1.2 × 10⁴ × (0.233)²)/200
+F_c = (1.2 × 10⁴ × 0.0543)/200 = 3.26 N
+```
+
+**Calculate gravitational force:**
+```
+F_g = Gm₁m₂/r²
+F_g = (6.67 × 10⁻¹¹ × 1.2 × 10⁴ × 4.2 × 10⁵)/(200)²
+F_g = (3.36 × 10⁻¹)/40000 = 8.4 × 10⁻⁶ N
+```
+
+**Analysis:**
+- Required centripetal force: 3.26 N
+- Available gravitational force: 8.4 × 10⁻⁶ N
+- Gravitational force is approximately 400,000 times smaller than required
+
+**Conclusion:**
+The hypothesis is **rejected**. The gravitational force between the capsule and ISS is far too small to provide the necessary centripetal force for circular motion. The actual circular motion is maintained by other forces, likely mechanical connections or the ISS's own orbital motion around Earth.
