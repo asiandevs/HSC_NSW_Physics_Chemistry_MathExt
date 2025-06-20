@@ -329,6 +329,7 @@ Iron(III) hydroxide, Fe(OH)₃
 **Enthalpy of combustion of alcohols**
 
 **(a) Graph and estimation (3 marks)**
+![image](https://github.com/user-attachments/assets/5a2a1194-8587-41e7-b7bc-c7ec47d0c189)
 
 [Graph would show points plotted with curved line of best fit]
 From the curve, the enthalpy of combustion of butan-1-ol (4 carbons) ≈ -2100 kJ mol⁻¹
@@ -347,11 +348,8 @@ Heat loss to surroundings during the experiment. In school laboratories, calorim
 - ¹³C NMR: Shows 3 carbon signals
 
 **Structure:**
-```
-    O
-    ||
-H₃C-C-CH(CH₃)₂
-```
+![image](https://github.com/user-attachments/assets/6c45b229-9f02-4315-9fd6-ff3b3e5ebd57)
+
 
 **Name:** 3-methylbutan-2-one (or methyl isopropyl ketone)
 
