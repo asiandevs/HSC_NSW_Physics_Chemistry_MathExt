@@ -125,7 +125,7 @@ N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
 - Test 4: Ag⁺ + Cl⁻ → AgCl (white precipitate)
 
 ### Question 14: Stoichiometry Calculation
-**Answer: B - 23.4 mL**
+**Answer: D - 46.8 mL**
 
 **Explanation:**
 Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂
@@ -133,8 +133,6 @@ Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂
 - Moles Na₂CO₃ = 1.34/106 = 0.01264 mol
 - Moles HCl needed = 2 × 0.01264 = 0.02528 mol
 - Volume = 0.02528/0.540 = 0.0468 L = 46.8 mL
-
-**Correction: Answer should be D - 46.8 mL**
 
 ### Question 15: Heat of Combustion Pattern
 **Answer: B - (29.67 + 36.11)/2**
@@ -147,7 +145,7 @@ Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂
 **Explanation:** AgI has a lower Ksp than AgCl, so it precipitates first. The two distinct breaks in the curve indicate separate precipitation events.
 
 ### Question 17: Lead(II) Iodide Solubility
-**Answer: B - 0.293 g**
+**Answer: A - 0.233 g**
 
 **Explanation:**
 PbI₂(s) ⇌ Pb²⁺(aq) + 2I⁻(aq)
@@ -161,11 +159,10 @@ Mass in 375 mL = 1.35 × 10⁻³ × 0.375 × 461 = 0.233 g
 **Note: Need to check Ksp value from data sheet**
 
 ### Question 18: Le Chatelier's Principle
-**Answer: C - Increase, +**
+**Answer: B **
 
 **Explanation:** 
-CO₂(g) + H₂(g) ⇌ CO(g) + H₂O(g)
-When temperature increases, both forward and reverse rates increase, but the rate increase is greater for the endothermic direction. Since forward rate increases more, ΔH is positive (endothermic).
+From the graph, there is a sudden decrease in the rate of the forward reaction at time t. This immediate decrease is due to a decrease in temperature. Following this, the rate of the forward reaction increases again gradually, which indicates the forward reaction is exothermic (Le Chatelier’s Principle – decrease in temperature favours exothermic reaction). Thus the change in enthalpy is negative.
 
 ### Question 19: Mass Spectrometry
 **Answer: B - CH₃COCH₂CH₃⁺ → CH₃CO⁺ + CH₂CH₃**
@@ -288,6 +285,8 @@ Compound R: C₂H₄Cl₂ (MM = 99, but spectrum shows ~84)
 Need to recalculate with correct molecular ion peak.
 
 **Structural formula of R:** CH₂Cl-CH₂Cl
+![image](https://github.com/user-attachments/assets/98b53a41-49fc-4dad-a981-379291a4c934)
+
 
 ### Question 29: Solubility Trends (3 marks)
 
@@ -315,6 +314,8 @@ As the carbon chain length increases, the nonpolar hydrocarbon portion becomes m
 From the calibration data, create a line graph of Absorbance vs Concentration of [Cu(C₃H₆O₃)₂]²⁺.
 
 From absorbance = 0.66, read concentration from graph: [Cu(C₃H₆O₃)₂]²⁺ = 0.046 mol L⁻¹
+![image](https://github.com/user-attachments/assets/70c375c4-0146-4722-9afd-c0347dd172a3)
+
 
 **ICE Table:**
 ```
