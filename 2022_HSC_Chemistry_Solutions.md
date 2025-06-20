@@ -39,7 +39,7 @@ A primary standard must be weighed accurately to determine its exact mass, requi
 
 At equilibrium, the rates of forward and reverse reactions are equal, but the concentrations of reactants and products are not necessarily equal. They depend on the equilibrium constant.
 
-### Question 4
+### Question 4 [ Need to verify C]
 **Which lamp should be used to determine the manganese concentration in the sample?**
 
 **Answer: A**
@@ -66,6 +66,8 @@ At 630 nm, solution Q shows maximum absorbance while solution P shows minimal ab
 **What is the systematic name of 2-ethyl-3-chlorohexane?**
 
 **Answer: B. 4-chloro-3-methylheptane**
+![image](https://github.com/user-attachments/assets/d1c9e199-2b82-4747-bfd8-2c78db4ad2bf)
+
 
 The longest carbon chain has 7 carbons (heptane), with a methyl group at position 3 and chlorine at position 4 when numbered to give substituents the lowest possible numbers.
 
@@ -80,6 +82,8 @@ For heterogeneous equilibria, only gases and aqueous species are included in the
 **What is the structure of CH₃C(CH₃)₂CH₂CH(CH₃)₂?**
 
 **Answer: A**
+![image](https://github.com/user-attachments/assets/8d2a92e4-1e44-4c0d-b51b-d06c129fbf4c)
+
 
 Breaking down the structure:
 - CH₃ (methyl group)
@@ -87,14 +91,14 @@ Breaking down the structure:
 - CH₂ (methylene group)
 - CH(CH₃)₂ (carbon with two methyl branches)
 
-### Question 10
+### Question 10 [ Need to check C ]
 **Which equation shows the hydrogen carbonate ion acting as a Brønsted-Lowry acid?**
 
 **Answer: A. HCO₃⁻(aq) ⇌ CO₃²⁻(aq) + H⁺(aq)**
 
 A Brønsted-Lowry acid donates a proton (H⁺). In this equation, HCO₃⁻ donates H⁺ to form CO₃²⁻.
 
-### Question 11
+### Question 11  [ Need to check B ]
 **What is the major organic product of cyclohexanol dehydration with concentrated H₂SO₄?**
 
 **Answer: A. Cyclohexene**
@@ -106,6 +110,8 @@ Dehydration of alcohols removes water (H₂O) to form alkenes. Cyclohexanol lose
 
 **Answer: D**
 
+![image](https://github.com/user-attachments/assets/12336527-1f1a-4bac-a0b4-5d2cd1a04605)
+
 The compound with the highest symmetry will have the fewest unique carbon environments. Structure D (2,2-dimethylbutane) has the most symmetrical arrangement.
 
 ### Question 13
@@ -113,6 +119,8 @@ The compound with the highest symmetry will have the fewest unique carbon enviro
 **Initial: 0.64 mol NOBr, Equilibrium: 0.46 mol NOBr in 1.00 L flask**
 
 **Answer: A. [NO] = 0.18 mol L⁻¹, [Br₂] = 0.09 mol L⁻¹**
+
+![image](https://github.com/user-attachments/assets/fbc14146-3703-4230-a861-a60898ef07b5)
 
 **Calculation:**
 - NOBr consumed = 0.64 - 0.46 = 0.18 mol
@@ -159,7 +167,7 @@ Doubling the pathlength (l) doubles the absorbance, assuming the same concentrat
 - After dilution, still saturated, so [Ag⁺] remains constant
 - Ratio = 1:1
 
-### Question 18
+### Question 18 [Need to check D]
 **Biopolymer with molecular weight 2900 ± 100 g mol⁻¹**
 
 **Answer: C**
@@ -168,10 +176,12 @@ Doubling the pathlength (l) doubles the absorbance, assuming the same concentrat
 - Option C: 90.078 g mol⁻¹ × 32 units = 2882.5 g mol⁻¹
 - This falls within the range 2800-3000 g mol⁻¹
 
-### Question 19
+### Question 19 [ Need to check A] 
 **Molar solubility of iron(II) hydroxide**
 
 **Answer: C. 3.7 × 10⁻⁶ mol L⁻¹**
+
+![image](https://github.com/user-attachments/assets/e4ea7d5c-2e28-444a-8c1c-8f3ea6e1c41c)
 
 **Calculation:**
 Fe(OH)₂(s) ⇌ Fe²⁺(aq) + 2OH⁻(aq)
@@ -183,6 +193,7 @@ Fe(OH)₂(s) ⇌ Fe²⁺(aq) + 2OH⁻(aq)
 
 ### Question 20
 **Cyanidin indicator with 0.75 mol L⁻¹ HIO (pKₐ = 10.64)**
+![image](https://github.com/user-attachments/assets/e3cd1006-2c5a-4565-9031-364d7bddce76)
 
 **Answer: C. Purple**
 
@@ -198,13 +209,10 @@ Fe(OH)₂(s) ⇌ Fe²⁺(aq) + 2OH⁻(aq)
 **Draw the structural formula of the product when prop-1-ene reacts with Cl₂**
 
 **Answer:**
-```
-    H   H   H
-    |   |   |
-H-C-C-C-H
-    |   |   
-    Cl  Cl  
-```
+
+![image](https://github.com/user-attachments/assets/c64a12d5-b458-43bc-925f-40bf68ef183c)
+
+
 
 The addition reaction adds Cl₂ across the double bond to form 1,2-dichloropropane.
 
