@@ -28,16 +28,11 @@ These worked solutions are my attempt at solving the **2023 HSC Chemistry Exam**
 **Explanation:** The diagram shows a lamp, lens, flame, sample, prism/monochromator, and detector. This setup is characteristic of atomic absorption spectroscopy (AAS), where atoms absorb specific wavelengths of light.
 
 ### Question 3: IUPAC Naming
-**Answer: A - Pent-2-ene**
+**Answer: B**
 
 **Explanation:** 
-- 5 carbon chain = pent
-- Double bond between C2 and C3
-- Number from the end giving the lowest number to the double bond
-- Structure shows C=C double bond, so it's an alkene (-ene)
+There are 5 carbon atoms so the prefix should be ‘pent’. The triple bond is the second bond (numbering from right to left) and the suffix for this bond is ‘yne’. Hence the correct answer is Pent-2-yne.
 
-# Matrix Solution:
-![image](https://github.com/user-attachments/assets/2f918ad3-09e7-4001-8717-746051a7c410)
 
 ### Question 4: Solubility Product (Ksp)
 **Answer: D - 37.6**
@@ -49,12 +44,10 @@ For NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)
 - Ksp = [Na⁺][Cl⁻] = 6.13 × 6.13 = 37.6
 
 ### Question 5: Concentrated Weak Acid
-**Answer: B**
+**Answer: D**
 
-**Explanation:** A concentrated weak acid has many acid molecules but few dissociated H⁺ ions. Diagram B shows many undissociated acid molecules with few H⁺ ions and anions.
+**Explanation:** Weak acids rarely dissociate into their ions, so the solution should mostly contain whole acid molecules. This rules out B and C which are fully dissociated. A concentrated solution will have more molecules, so the correct answer is D.
 
-# Matrix Solution:
-![image](https://github.com/user-attachments/assets/5633d77f-a975-4767-9dc3-9bf0c386cb6a)
 
 ### Question 6: pH Change
 **Answer: C - It increases by a factor of 1000**
