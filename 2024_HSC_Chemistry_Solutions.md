@@ -47,7 +47,7 @@ Only option A contains two members of the same homologous series (alcohols).
 - Sodium hydroxide (NaOH) → Na⁺ + OH⁻
 - The other options are salts that don't produce OH⁻ ions directly
 
-### Question 4
+### Question 4 [ Need to check - A ] 
 **An infrared spectrum of an organic compound is shown. Which compound would produce this spectrum?**
 
 **Answer: B**
@@ -98,7 +98,7 @@ Only option A contains two members of the same homologous series (alcohols).
 - Ca²⁺ produces an orange-red flame
 - These are distinctly different colors, while the other pairs don't produce characteristic flame colors or produce similar colors
 
-### Question 9
+### Question 9 [correct: B]
 **Which is the mass spectrum of ethanamine?**
 
 **Answer: A**
@@ -154,6 +154,8 @@ PbI₂ ⇌ Pb²⁺ + 2I⁻
 **Which monomer could react with glycine to form this section of silk polymer?**
 
 **Answer: B**
+![image](https://github.com/user-attachments/assets/176da117-32ff-43e1-b908-743d001cdcee)
+
 
 **Solution:** The polymer shows alternating residues with CH₃ side chains. The monomer needed is alanine (H₂N-CH(CH₃)-COOH) to provide the CH₃ groups shown in the polymer structure.
 
@@ -201,13 +203,15 @@ CH₃COO⁻ + H₃O⁺ → CH₃COOH + H₂O
 **Which compound produces TWO doublets in ¹H NMR?**
 
 **Answer: A**
+![image](https://github.com/user-attachments/assets/2da358b0-0b8d-46b0-bba8-f87f6a77362a)
+
 
 **Solution:** For two doublets, you need two different CH₃ groups each coupled to one proton:
 - Structure A has CH₃CH₂- pattern
 - The CH₃ appears as a doublet (coupled to CH₂)
 - The CH₂ appears as a quartet, but if there's symmetry, could appear as doublet
 
-### Question 20
+### Question 20 [D]
 **What is the concentration of ascorbic acid in solution A?**
 
 **Answer: A**
@@ -237,6 +241,7 @@ CH₃COO⁻ + H₃O⁺ → CH₃COOH + H₂O
 ```
 -CF₂-CH₂-CF₂-CH₂-CF₂-CH₂-
 ```
+![image](https://github.com/user-attachments/assets/544f239b-7763-450e-adc5-715131611366)
 
 The polymer forms by addition polymerization, with alternating CF₂ and CH₂ groups.
 
@@ -249,6 +254,9 @@ When heated, the solution becomes more blue, indicating the equilibrium shifts r
 **(a) Graph:** Plot boiling points vs number of carbon atoms
 - Amines: lower boiling points, increasing trend
 - Alcohols: higher boiling points, steeper increasing trend
+![image](https://github.com/user-attachments/assets/52cdede3-84a8-4046-85c5-aba9508c8102)
+
+
 
 **(b) Explanation:**
 Within each series, boiling points increase with molecular size due to stronger dispersion forces from increased molecular surface area.
@@ -270,6 +278,7 @@ From the calibration graph:
 
 ### Question 26 (5 marks)
 **(a) Graph:** [I₂] starts at 2.0 × 10⁻⁵, decreases to 1.0 × 10⁻⁵ at 3 min, then remains constant.
+
 
 **(b) Collision theory explanation:**
 Initially (0-3 min): High [I₂] means frequent collisions between I₂ and HCN molecules, leading to fast reaction rate.
