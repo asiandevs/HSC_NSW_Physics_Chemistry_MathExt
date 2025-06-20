@@ -408,6 +408,13 @@ Trichloroacetic acid (CCl₃COOH) is much stronger than acetic acid (CH₃COOH) 
 
 **Analysis:**
 
+![image](https://github.com/user-attachments/assets/88a6770c-04f4-4e42-9a45-8a3f346259c7)
+
+![image](https://github.com/user-attachments/assets/c93ebc50-e44e-4e6b-b622-3818c005f896)
+
+![image](https://github.com/user-attachments/assets/36218238-bef5-4c3c-8ab9-594c4743de0c)
+
+
 **Compound A (MM = 84.156 g mol⁻¹):**
 - ¹³C NMR shows 4 different carbon environments
 - Molecular formula likely C₅H₁₀O (MM = 86, close to given)
@@ -419,6 +426,7 @@ Trichloroacetic acid (CCl₃COOH) is much stronger than acetic acid (CH₃COOH) 
 - **Functional group:** Carboxylic acid
 - Formed by oxidation of ketone with KMnO₄
 - **Structure:** CH₃COOH (ethanoic acid)
+
 
 **Compound C:**
 - ¹H NMR data:
