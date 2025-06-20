@@ -278,6 +278,7 @@ From the calibration graph:
 
 ### Question 26 (5 marks)
 **(a) Graph:** [I₂] starts at 2.0 × 10⁻⁵, decreases to 1.0 × 10⁻⁵ at 3 min, then remains constant.
+![image](https://github.com/user-attachments/assets/2ee3c81e-b272-4302-974d-8c740b8b768b)
 
 
 **(b) Collision theory explanation:**
@@ -345,7 +346,7 @@ The DMC process is preferable because:
 3. More environmentally sustainable
 4. Better economic efficiency due to reduced waste disposal costs
 
-### Question 32 (4 marks)
+### Question 32 (4 marks)  [?? Need to validate answer]
 **Calculate cadmium ion concentration:**
 
 Cd₃(PO₄)₂ ⇌ 3Cd²⁺ + 2PO₄³⁻
@@ -401,6 +402,11 @@ Analysis of data:
 
 Y has two possible hydration products (Markovnikov/anti-Markovnikov), Z has only one due to symmetry.
 
+![image](https://github.com/user-attachments/assets/d15820e8-e233-4a1b-a942-fa2fbb229725)
+
+![image](https://github.com/user-attachments/assets/e83985c4-4c8c-4db0-8343-6729db157ee2)
+
+
 ### Question 36 (5 marks)
 **Calculate enthalpy of reaction:**
 
@@ -441,8 +447,16 @@ From NMR data of E (ester):
 
 **Structures:**
 - A: (CH₃)₂CHBr
-- B: CH₃CH₂CH₂Br  
+![image](https://github.com/user-attachments/assets/bfa700d3-2e46-4716-80e2-89506c7e8213)
+
+  
+- B: CH₃CH₂CH₂Br
+![image](https://github.com/user-attachments/assets/38b8013d-247d-4e0b-8a6f-da35fc8525a5)
+
+  
 - E: (CH₃)₂CHCH₂COOCH₂CH₃
+  ![image](https://github.com/user-attachments/assets/d3d453f4-3812-4475-9a01-54a525feab93)
+
 
 ### Question 39 (4 marks)
 **Calculate equilibrium concentrations:**
