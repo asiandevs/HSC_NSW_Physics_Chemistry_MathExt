@@ -36,6 +36,9 @@ These worked solutions are my attempt at solving the **2023 HSC Chemistry Exam**
 - Number from the end giving the lowest number to the double bond
 - Structure shows C=C double bond, so it's an alkene (-ene)
 
+# Matrix Solution:
+![image](https://github.com/user-attachments/assets/2f918ad3-09e7-4001-8717-746051a7c410)
+
 ### Question 4: Solubility Product (Ksp)
 **Answer: D - 37.6**
 
@@ -49,6 +52,9 @@ For NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)
 **Answer: B**
 
 **Explanation:** A concentrated weak acid has many acid molecules but few dissociated H⁺ ions. Diagram B shows many undissociated acid molecules with few H⁺ ions and anions.
+
+# Matrix Solution:
+![image](https://github.com/user-attachments/assets/5633d77f-a975-4767-9dc3-9bf0c386cb6a)
 
 ### Question 6: pH Change
 **Answer: C - It increases by a factor of 1000**
@@ -72,14 +78,11 @@ CO(g) + 2H₂(g) ⇌ CH₃OH(g)
 - H₂ remaining = 0.8 - 0.6 = 0.2 mol
 
 ### Question 8: Structural Isomers C₃H₆F₂
-**Answer: B - 3**
+**Answer: C**
 
-**Explanation:**
-Possible structures:
-1. CH₃CHF₂ (1,1-difluoropropane)
-2. CH₂FCH₂F (1,2-difluoropropane)  
-3. CH₃CH₂CHF₂ (1,1-difluoropropane)
-Total: 3 structural isomers
+
+![image](https://github.com/user-attachments/assets/384f475b-f526-4efc-b7e2-6c362ed4a0b9)
+
 
 ### Question 9: Titration Curve Analysis
 **Answer: C - Addition of a strong acid to a weak base**
@@ -95,12 +98,13 @@ Total: 3 structural isomers
 - Hydrogen bonding: alcohol
 - Strongest H-bonding: carboxylic acid (dimers)
 
-### Question 11: Indicator Colors
-**Answer: D - Purple, Green-yellow**
+  ![image](https://github.com/user-attachments/assets/d2ffd7de-34be-48fc-a14f-3218d0d0113d)
 
-**Explanation:**
-- H₂SO₄ (1×10⁻⁵ M): pH ≈ 5, color = purple
-- NaOH (5×10⁻⁵ M): pH ≈ 10, color = green-yellow
+
+### Question 11: Indicator Colors
+**Answer: C **
+
+![image](https://github.com/user-attachments/assets/3b0f62e1-eb8a-403a-8eec-e3b3e425d4d1)
 
 ### Question 12: Haber Process
 **Answer: B - A higher pressure would result in a higher yield**
