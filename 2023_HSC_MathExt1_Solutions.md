@@ -1,5 +1,5 @@
  # Exam Paper
-[2023 HIGHER SCHOOL CERTIFICATE EXAMINATION](<>)
+[2023 HIGHER SCHOOL CERTIFICATE EXAMINATION](<https://www.educationstandards.nsw.edu.au/wps/wcm/connect/5875027b-2ec1-42bc-a768-b8c85e172749/2023-hsc-maths-ext-1.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-5875027b-2ec1-42bc-a768-b8c85e172749-oJvJNIB>)
 
 ## 📝 Note to the Readers
 
