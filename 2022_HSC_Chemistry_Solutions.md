@@ -3,7 +3,7 @@
 
 ## 📝 Note to the Readers
 
-These worked solutions are my attempt at solving the **2024 HSC Chemistry Exam**. While I’ve made every effort to ensure accuracy:
+These worked solutions are my attempt at solving the **2022 HSC Chemistry Exam**. While I’ve made every effort to ensure accuracy:
 
 - ✅ **Verify answers** – Cross-check calculations and reasoning.  
 - 🔍 **Report issues** – If you spot errors, [open an issue](../../issues) or submit a PR.  
