@@ -1,5 +1,5 @@
  # Exam Paper
-[2024 HIGHER SCHOOL CERTIFICATE EXAMINATION](<>)
+[2024 HIGHER SCHOOL CERTIFICATE EXAMINATION](<https://www.educationstandards.nsw.edu.au/wps/wcm/connect/19eef92a-04ca-40fc-9bd6-a82f594bcf74/2024-hsc-maths-ext-1.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-19eef92a-04ca-40fc-9bd6-a82f594bcf74-pbr0TTR>)
 
 ## 📝 Note to the Readers
 
