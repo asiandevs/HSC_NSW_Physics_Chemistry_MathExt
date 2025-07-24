@@ -47,7 +47,11 @@ Only option A contains two members of the same homologous series (alcohols).
 - Sodium hydroxide (NaOH) → Na⁺ + OH⁻
 - The other options are salts that don't produce OH⁻ ions directly
 
-### Question 4 [ Need to check - A ] 
+### Question 4 
+```diff
+- Need to check - A
+```
+
 **An infrared spectrum of an organic compound is shown. Which compound would produce this spectrum?**
 
 **Answer: B**
@@ -98,7 +102,11 @@ Only option A contains two members of the same homologous series (alcohols).
 - Ca²⁺ produces an orange-red flame
 - These are distinctly different colors, while the other pairs don't produce characteristic flame colors or produce similar colors
 
-### Question 9 [correct: B]
+### Question 9
+
+```diff
+- Need to check - A / B
+```
 **Which is the mass spectrum of ethanamine?**
 
 **Answer: A**
@@ -211,10 +219,12 @@ CH₃COO⁻ + H₃O⁺ → CH₃COOH + H₂O
 - The CH₃ appears as a doublet (coupled to CH₂)
 - The CH₂ appears as a quartet, but if there's symmetry, could appear as doublet
 
-### Question 20 [D]
-**What is the concentration of ascorbic acid in solution A?**
+### Question 20
 
-**Answer: A**
+```diff
+- Need to check - A / D
+```
+**What is the concentration of ascorbic acid in solution A?**
 
 **Solution:**
 - Additional ascorbic acid: 50.00 mg = 0.05000 g
@@ -255,7 +265,6 @@ When heated, the solution becomes more blue, indicating the equilibrium shifts r
 - Amines: lower boiling points, increasing trend
 - Alcohols: higher boiling points, steeper increasing trend
 ![image](https://github.com/user-attachments/assets/52cdede3-84a8-4046-85c5-aba9508c8102)
-
 
 
 **(b) Explanation:**
