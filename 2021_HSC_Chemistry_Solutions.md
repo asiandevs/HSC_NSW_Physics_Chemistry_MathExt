@@ -157,24 +157,18 @@ Starting material undergoes:
 X = prop-1-ene, Y = propan-2-ol, Z = propan-2-one
 
 ### Question 14
-**Colorimetric analysis calculation**
+**Correct Answer: Should be D**
 
-**Answer: C**
+**Correct working:**
+- From calibration curve at absorbance 0.30: concentration = 0.0020 mol L⁻¹
+- This is the concentration in the 250.0 mL diluted solution
+- Moles of Ni in diluted solution = 0.0020 × 0.250 = 5.0 × 10⁻⁴ mol
+- This came from 10.00 mL of original 50.0 mL solution
+- **Original concentration = (5.0 × 10⁻⁴ mol)/(0.010 L) = 0.050 mol L⁻¹**
+- **Total moles in 50.0 mL = 0.050 × 0.050 = 2.5 × 10⁻³ mol**
+- **Mass = 2.5 × 10⁻³ × 58.7 = 0.147 g**
 
-From calibration curve: At absorbance 0.30, concentration = 0.0020 mol L⁻¹
-
-This is the concentration in the diluted solution (250.0 mL).
-
-Moles of Ni in diluted solution = 0.0020 × 0.250 = 5.0 × 10⁻⁴ mol
-
-This came from 10.00 mL of original solution.
-Moles in original solution = 5.0 × 10⁻⁴ mol
-Concentration in original = (5.0 × 10⁻⁴)/0.010 = 0.050 mol L⁻¹
-
-Total moles of Ni = 0.050 × 0.050 = 2.5 × 10⁻³ mol
-Mass = 2.5 × 10⁻³ × 58.7 = 0.147 g ≈ 0.15 g
-
-**Answer: D**
+The answer should be **0.15 g**, which matches option **D**.
 
 ### Question 15
 **pH calculation for strong acid-base mixture**
@@ -267,8 +261,6 @@ Working backwards from the equilibrium:
 s ≈ 7.76 mol L⁻¹, so Ksp = s² = 60.2
 
 **Answer: C**
-
----
 
 ## Section II - Extended Response Questions (80 marks)
 
@@ -434,7 +426,13 @@ H₃C-C-COOCH₃
     |
     CH₃
 ```
+**Issue:** This suggests oxidation of a tertiary alcohol to a carboxylic acid, which is not possible under normal conditions.
 
+**Correction needed:** The reaction pathway should be reconsidered:
+- Tertiary alcohols cannot be oxidized to carboxylic acids under normal conditions
+- The structure shown for compound C doesn't follow from compound A
+- Need to reconsider the reaction sequence or the starting material
+  
 **(b) Reasons for using reflux (2 marks)**
 
 1. **Prevents loss of volatile reactants/products:** Reflux condenses vapors and returns them to the reaction mixture, preventing evaporation.
