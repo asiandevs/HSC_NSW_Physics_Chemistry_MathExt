@@ -48,8 +48,15 @@ Only option A contains two members of the same homologous series (alcohols).
 - The other options are salts that don't produce OH⁻ ions directly
 
 ### Question 4 
-```diff
-- Need to check - A
+
+**Answer: C**
+```
+Explanation: The IR spectrum shows:
+
+Broad peak around 3000-3500 cm⁻¹: O-H stretch (alcohol or carboxylic acid)
+Peak around 1700 cm⁻¹: C=O stretch (ketone or aldehyde)
+This combination suggests a compound with both OH and C=O groups
+Option C shows a structure consistent with these functional groups
 ```
 
 **An infrared spectrum of an organic compound is shown. Which compound would produce this spectrum?**
@@ -104,17 +111,13 @@ Only option A contains two members of the same homologous series (alcohols).
 
 ### Question 9
 
-```diff
-- Need to check - A / B
-```
-**Which is the mass spectrum of ethanamine?**
-
-**Answer: A**
+**Answer: B**
 
 **Solution:** Ethanamine (C₂H₅NH₂) has molecular mass = 45
 - Molecular ion peak at m/z = 45
 - Common fragmentation: loss of NH₂ (16) gives m/z = 29
-- Base peak typically at m/z = 30 ([CH₂=NH₂]⁺)
+- Loss of CH₃ (15) gives m/z = 30
+- Option B shows appropriate fragmentation pattern
 
 ### Question 10
 **A catalyst is added to the equilibrium system. Which row correctly identifies the change in yield of propan-2-one and reaction rates?**
@@ -152,11 +155,12 @@ PbI₂ ⇌ Pb²⁺ + 2I⁻
 ### Question 13
 **A fuel has enthalpies of combustion: -2057.8 kJ mol⁻¹ and -48.9 kJ g⁻¹. Which fuel is it?**
 
-**Answer: C**
+**Answer: B - Propane**
 
 **Solution:**
-- Molar mass = 2057.8 ÷ 48.9 = 42.1 g mol⁻¹
-- This matches propene (C₃H₆ = 42.1 g mol⁻¹)
+- Given: ΔHc = -2057.8 kJ/mol and -48.9 kJ/g
+- Check: -2057.8 kJ/mol ÷ 44.1 g/mol = -46.7 kJ/g ≈ -48.9 kJ/g
+- This matches propane (C₃H₈, MM = 44.1 g/mol)
 
 ### Question 14
 **Which monomer could react with glycine to form this section of silk polymer?**
@@ -200,12 +204,13 @@ CH₃COO⁻ + H₃O⁺ → CH₃COOH + H₂O
 ### Question 18
 **Which diagram shows how Q changes over time for this mixture?**
 
-**Answer: B**
+**Answer: A**
 
 **Solution:** 
-- Initially, forward rate > reverse rate, so reaction proceeds forward
-- Q starts below K and increases toward K
-- Q approaches K asymptotically from below
+- Initially Q < Keq (forward rate > reverse rate)
+- System shifts toward equilibrium
+- Q increases toward Keq value
+- Curve levels off as equilibrium is reached
 
 ### Question 19
 **Which compound produces TWO doublets in ¹H NMR?**
@@ -222,16 +227,20 @@ CH₃COO⁻ + H₃O⁺ → CH₃COOH + H₂O
 ### Question 20
 
 ```diff
-- Need to check - A / D
+- Need to check D
 ```
 **What is the concentration of ascorbic acid in solution A?**
 
 **Solution:**
-- Additional ascorbic acid: 50.00 mg = 0.05000 g
-- Moles added: 0.05000 ÷ 176.124 = 2.840 × 10⁻⁴ mol
-- Additional titre: 33.10 - 17.50 = 15.60 mL
-- Concentration = (2.840 × 10⁻⁴ mol) ÷ (0.025 L) = 0.01136 mol L⁻¹
-- Original concentration = (17.50/15.60) × 0.01136 = 5.352 × 10⁻³ mol L⁻¹
+- The added ascorbic acid: 50.00 mg = 0.05000 g
+- Moles = 0.05000 ÷ 176.124 = 2.839 × 10⁻⁴ mol
+- This caused an increase of 15.60 mL in titre
+- The original sample (25.00 mL) required 17.50 mL
+- Proportion: 17.50/15.60 = original moles/added moles
+- Original moles = (17.50/15.60) × 2.839 × 10⁻⁴ = 3.184 × 10⁻⁴ mol
+- Concentration = 3.184 × 10⁻⁴ mol ÷ 0.02500 L = 1.274 × 10⁻² mol L⁻¹
+
+Actually D - 1.274 × 10⁻² mol L⁻¹
 
 ## Section II - Extended Response Questions (80 marks)
 
@@ -280,11 +289,16 @@ Between series, alcohols have higher boiling points than amines because:
 **Determine phosphate ion concentration:**
 
 From the calibration graph:
-- Absorbance = 0.64
-- Concentration in diluted solution ≈ 0.80 mg L⁻¹
-- Original concentration = 0.80 × 1000 = 800 mg L⁻¹
-- Convert to mol L⁻¹: 800 mg L⁻¹ ÷ 94.97 g mol⁻¹ = 0.0084 mol L⁻¹
-
+```
+Step 1: Read concentration from calibration graph
+At absorbance = 0.64, concentration = 0.80 mg L⁻¹ (from graph)
+Step 2: Account for dilution
+Original sample was diluted 1.00 mL → 1.000 L (1000× dilution)
+Actual concentration = 0.80 × 1000 = 800 mg L⁻¹
+Step 3: Convert to mol L⁻¹
+Phosphate ion (PO₄³⁻): MM = 94.97 g mol⁻¹
+Concentration = (800 × 10⁻³ g L⁻¹) ÷ (94.97 g mol⁻¹) = 8.42 × 10⁻³ mol L⁻¹
+```
 ### Question 26 (5 marks)
 **(a) Graph:** [I₂] starts at 2.0 × 10⁻⁵, decreases to 1.0 × 10⁻⁵ at 3 min, then remains constant.
 ![image](https://github.com/user-attachments/assets/2ee3c81e-b272-4302-974d-8c740b8b768b)
