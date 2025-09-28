@@ -39,7 +39,7 @@ A primary standard must be weighed accurately to determine its exact mass, requi
 
 At equilibrium, the rates of forward and reverse reactions are equal, but the concentrations of reactants and products are not necessarily equal. They depend on the equilibrium constant.
 
-### Question 4 [ Need to verify C]
+### Question 4 
 **Which lamp should be used to determine the manganese concentration in the sample?**
 
 **Answer: A**
@@ -91,14 +91,14 @@ Breaking down the structure:
 - CH₂ (methylene group)
 - CH(CH₃)₂ (carbon with two methyl branches)
 
-### Question 10 [ Need to check C ]
+### Question 10
 **Which equation shows the hydrogen carbonate ion acting as a Brønsted-Lowry acid?**
 
-**Answer: A. HCO₃⁻(aq) ⇌ CO₃²⁻(aq) + H⁺(aq)**
+**Answer: C. HCO₃⁻(aq) + NH₃(aq) → CO₃²⁻(aq) + NH₄⁺(aq)**
 
-A Brønsted-Lowry acid donates a proton (H⁺). In this equation, HCO₃⁻ donates H⁺ to form CO₃²⁻.
+A Brønsted-Lowry acid donates a proton (H⁺). In this equation, HCO₃⁻ donates H⁺ to NH₃, forming CO₃²⁻ and NH₄⁺. Option A shows autoionization, not proton donation to another species.
 
-### Question 11  [ Need to check B ]
+### Question 11
 **What is the major organic product of cyclohexanol dehydration with concentrated H₂SO₄?**
 
 **Answer: A. Cyclohexene**
@@ -176,20 +176,20 @@ Doubling the pathlength (l) doubles the absorbance, assuming the same concentrat
 - Option C: 90.078 g mol⁻¹ × 32 units = 2882.5 g mol⁻¹
 - This falls within the range 2800-3000 g mol⁻¹
 
-### Question 19 [ Need to check A] 
+### Question 19
 **Molar solubility of iron(II) hydroxide**
 
-**Answer: C. 3.7 × 10⁻⁶ mol L⁻¹**
-
-![image](https://github.com/user-attachments/assets/e4ea7d5c-2e28-444a-8c1c-8f3ea6e1c41c)
-
-**Calculation:**
+**Answer: A. 2.3 × 10⁻⁶ mol L⁻¹**
+Calculation:
 Fe(OH)₂(s) ⇌ Fe²⁺(aq) + 2OH⁻(aq)
-- K_sp = [Fe²⁺][OH⁻]² = 4.9 × 10⁻¹⁷ (from data sheet)
-- Let s = molar solubility
-- K_sp = (s)(2s)² = 4s³
-- s³ = K_sp/4 = 4.9 × 10⁻¹⁷/4 = 1.225 × 10⁻¹⁷
-- s = 3.7 × 10⁻⁶ mol L⁻¹
+```
+From data sheet: K_sp = 8.0 × 10⁻¹⁶
+Let s = molar solubility
+K_sp = [Fe²⁺][OH⁻]² = (s)(2s)² = 4s³
+s³ = K_sp/4 = 8.0 × 10⁻¹⁶/4 = 2.0 × 10⁻¹⁶
+s = ∛(2.0 × 10⁻¹⁶) = 2.3 × 10⁻⁶ mol L⁻¹
+```
+![image](https://github.com/user-attachments/assets/e4ea7d5c-2e28-444a-8c1c-8f3ea6e1c41c)
 
 ### Question 20
 **Cyanidin indicator with 0.75 mol L⁻¹ HIO (pKₐ = 10.64)**
@@ -211,8 +211,6 @@ Fe(OH)₂(s) ⇌ Fe²⁺(aq) + 2OH⁻(aq)
 **Answer:**
 
 ![image](https://github.com/user-attachments/assets/c64a12d5-b458-43bc-925f-40bf68ef183c)
-
-
 
 The addition reaction adds Cl₂ across the double bond to form 1,2-dichloropropane.
 
