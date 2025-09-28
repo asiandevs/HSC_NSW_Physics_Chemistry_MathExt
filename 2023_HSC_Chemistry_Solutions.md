@@ -331,23 +331,22 @@ Keq = 0.046/(0.010 × 0.019²) = 0.046/0.00000361 = 1.27 × 10⁴
 ### Question 32: Back Titration (5 marks)
 
 **Calculation steps:**
-
-Initial NaOH: 50.00 × 1.124 = 56.20 mmol
-
+```
+Reaction: NH₄⁺(aq) + OH⁻(aq) → NH₃(g) + H₂O(l)
+Step 1: Calculate initial NaOH
+Initial moles NaOH = 0.05000 L × 1.124 mol/L = 0.05620 mol
+Step 2: Calculate average titre and excess NaOH
 Average titre = (21.95 + 22.00 + 22.05)/3 = 22.00 mL
-
-HCl used in titration: 22.00 × 0.1102 = 2.424 mmol
-This represents excess NaOH in 20.00 mL aliquot
-
-Total excess NaOH = 2.424 × (250.0/20.00) = 30.30 mmol
-
-NaOH consumed by NH₄⁺ = 56.20 - 30.30 = 25.90 mmol
-
-From NH₄⁺ + OH⁻ → NH₃ + H₂O
-Moles NH₄⁺ = 25.90 mmol = 0.02590 mol
-
-Mass of NH₄⁺ = 0.02590 × 18.04 = 0.467 g
-
+Moles HCl = 0.02200 L × 0.1102 mol/L = 0.002424 mol
+This represents excess NaOH in 20.00 mL aliquot.
+Step 3: Scale up to total volume
+Total excess NaOH = 0.002424 × (250.0/20.00) = 0.03030 mol
+Step 4: Calculate NaOH consumed by NH₄⁺
+NaOH consumed = 0.05620 - 0.03030 = 0.02590 mol
+Step 5: Calculate mass of NH₄⁺
+From stoichiometry: moles NH₄⁺ = moles NaOH consumed = 0.02590 mol
+Mass NH₄⁺ = 0.02590 mol × 18.04 g/mol = 0.467 g
+```
 ### Question 33: Dynamic Equilibrium (6 marks)
 
 **(a) Between 6-8 minutes (2 marks)**
