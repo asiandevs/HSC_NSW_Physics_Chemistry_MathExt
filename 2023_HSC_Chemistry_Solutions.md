@@ -28,11 +28,10 @@ These worked solutions are my attempt at solving the **2023 HSC Chemistry Exam**
 **Explanation:** The diagram shows a lamp, lens, flame, sample, prism/monochromator, and detector. This setup is characteristic of atomic absorption spectroscopy (AAS), where atoms absorb specific wavelengths of light.
 
 ### Question 3: IUPAC Naming
-**Answer: B**
+**A - Pent-2-ene**
 
 **Explanation:** 
 There are 5 carbon atoms so the prefix should be ‘pent’. The triple bond is the second bond (numbering from right to left) and the suffix for this bond is ‘yne’. Hence the correct answer is Pent-2-yne.
-
 
 ### Question 4: Solubility Product (Ksp)
 **Answer: D - 37.6**
@@ -47,7 +46,6 @@ For NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)
 **Answer: D**
 
 **Explanation:** Weak acids rarely dissociate into their ions, so the solution should mostly contain whole acid molecules. This rules out B and C which are fully dissociated. A concentrated solution will have more molecules, so the correct answer is D.
-
 
 ### Question 6: pH Change
 **Answer: C - It increases by a factor of 1000**
@@ -96,6 +94,15 @@ CO(g) + 2H₂(g) ⇌ CH₃OH(g)
 
 ### Question 11: Indicator Colors
 **Answer: C **
+```
+Calculations:
+
+H₂SO₄ (1×10⁻⁵ M): pH = -log(1×10⁻⁵) = 5 → Purple
+NaOH (5×10⁻⁵ M):
+
+pOH = -log(5×10⁻⁵) = 4.30
+pH = 14.00 - 4.30 = 9.70 → Blue-green
+```
 
 ![image](https://github.com/user-attachments/assets/3b0f62e1-eb8a-403a-8eec-e3b3e425d4d1)
 
@@ -116,6 +123,8 @@ N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
 - Test 2: Ba²⁺ + SO₄²⁻ → BaSO₄ (white precipitate)
 - Test 3: Ag⁺ + OH⁻ → Ag₂O (brown precipitate)
 - Test 4: Ag⁺ + Cl⁻ → AgCl (white precipitate)
+
+Only silver sulfate (Ag₂SO₄) produces all these results.
 
 ### Question 14: Stoichiometry Calculation
 **Answer: D - 46.8 mL**
@@ -148,8 +157,6 @@ Ksp = s(2s)² = 4s³
 s³ = 9.8 × 10⁻⁹/4 = 2.45 × 10⁻⁹
 s = 1.35 × 10⁻³ mol/L
 Mass in 375 mL = 1.35 × 10⁻³ × 0.375 × 461 = 0.233 g
-
-**Note: Need to check Ksp value from data sheet**
 
 ### Question 18: Le Chatelier's Principle
 **Answer: B **
